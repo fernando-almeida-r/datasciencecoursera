@@ -1,6 +1,6 @@
 complete <- function(directory, id=1:332)
         
-        #Search for matches to argument in directory  
+#Search for matches to argument in directory  
 {if(grep("specdata", directory)==1)
 {directory <- ("D:/Projetos/R/Coursera/datascience/R_Programming/Week_2/specdata/")}       
         
